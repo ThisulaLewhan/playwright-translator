@@ -43,12 +43,6 @@ npx playwright install
 Run all automated tests:
 npx playwright test
 
-Run tests in headed (browser visible) mode:
-npx playwright test --headed
-
-Run a specific test file:
-npx playwright test singlishTranslator.spec.ts
-
 View the HTML test report after execution:
 npx playwright show-report
 
