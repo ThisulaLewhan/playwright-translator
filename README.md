@@ -3,6 +3,10 @@
 This repository contains Playwright automated tests for validating a Singlish to Sinhala translation web application.
 The test suite covers positive functional cases, negative input handling, and UI behavior validation.
 
+## Student ID
+
+IT23344174
+
 ---
 
 ## Prerequisites
